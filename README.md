@@ -12,7 +12,9 @@ How to run the EFloys Applet.
 Install Netbeans (7.3)
 
 In Netbeans
-Open the eFloys project, click on efloys.java then in Run menu click Run File
+Open the eFloys project, click on eFloys / Source Packages / efloys.java
+
+then in Run menu - click Run File
 
 It is best to rest the system after pressing start evolution. The efloys are often fast, it is usually prudent to slow them down with move slower.
 
