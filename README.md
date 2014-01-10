@@ -75,11 +75,17 @@ Instructions
 
 The overall movement of the creatures can be made to appear smooth and calm, adjust it by clicking the 'Slower' or 'Faster' buttons (click several times to reach the desired effect). 
 
-Click the 'Scramble' button to introduce variety in the population. 
-Click the 'ScrambleAll' button to Adds 10 % more food (in develop). 
-Insert a green stranger and watch the local eFloys chase and attack him. 
-Click 'Start Evolution' to start the evolutionary process, where each generation begins when the older generation kills a stranger. <BR>
-Click the 'Reset' button to Restart with a random set - change screen / aquarium size.
+Click the 'Scramble' button to introduce variety in the population.
+
+Click the 'ScrambleAll' button to Adds 10 % food .  
+
+Insert a green 'Stranger' and watch the local eFloys chase and attack him. 
+
+Click 'Start Evolution' to start the evolutionary process, where each generation begins when the older generation kills a stranger. 
+
+Click the 'Reset' button to Restart with a random set of Food - 
+
+Change screen / aquarium size.
 
 Developed From:
 http://www.aridolan.com/ofiles/eFloys.html
