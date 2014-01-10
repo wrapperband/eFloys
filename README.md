@@ -79,3 +79,5 @@ Insert a green stranger and watch the local eFloys chase and attack him.
 Click 'Start Evolution' to start the evolutionary process, where each generation begins when the older generation kills a stranger. <BR>
 Click the 'Reset' button to Restart with a random set - change screen / aquarium size.
 
+Developed From:
+http://www.aridolan.com/ofiles/eFloys.html
