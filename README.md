@@ -7,6 +7,26 @@ An Experiment in Java Artificial Life - Evolving Floys
 
 "keywords" CONTENT="Alife, Artificial Life, Java, Floys, Emergent Behavior, Genetic Algorithms, Web Site Development, Software Development" 
 
+How to run the EFloys Applet.
+
+Install Netbeans (7.3)
+
+In Netbeans
+Open the eFloys project, click on efloys.java then in Run menu click Run File
+
+It is best to rest the system after pressing start evolution. The efloys are often fast, it is usually prudent to slow them down with move slower.
+
+Initially the screen shows all green food type efloys. When you press Scramble, the various coloured floys are predator efloys. They die off if they don't find a green efloy. The green efloys are random generated, but still have an effect on successful novel flockings that are possible. The major effect being the box size.
+
+Unfortunately, the 3 dimensional efloy enhancement and other bug fixes got lost at version 7. eFloys version 8.4 was recovered from version 6.
+
+This versions has its Settings in EFloys.html, set very experimental, with large numbers of efloys.
+
+The eFloys is a program I messed to learn Java with when I worked at Manchester University. At the time I was also supervising a number of PhD projects on application and implications of artificial intelligence techniques.
+
+I kept wishing I was good enough to restart it, or rewrite it in python, but it has some very novel elements.
+
+
 eFloys 
 
 Press Start evolution, then press Restart, press Scramble All  
