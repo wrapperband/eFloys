@@ -5,7 +5,7 @@ eFloys with a few extras
 
 An Experiment in Java Artificial Life - Evolving Floys
 
-"keywords" CONTENT="Alife, Artificial Life, Java, Floys, Emergent Behavior, Genetic Algorithms, Dolls, Collages, Assemblages, Web Site Development, Software Development" 
+"keywords" CONTENT="Alife, Artificial Life, Java, Floys, Emergent Behavior, Genetic Algorithms, Web Site Development, Software Development" 
 
 eFloys 
 
