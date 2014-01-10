@@ -1,0 +1,62 @@
+<HTML>
+<HEAD>
+<TITLE>E-worms</TITLE>
+<META HTTP-EQUIV="keywords" CONTENT="Alife, Artificial Life, Java, Floys, Emergent Behavior, Genetic Algorithms, Dolls, Collages, Assemblages, Web Site Development, Software Development">
+<META HTTP-EQUIV="author" CONTENT="drajo">
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" >
+<Center>
+<FONT  COLOR="#0000A0">Settings for breeding multi cell Organisms</FONT>
+</Center>
+<hr>
+<B>eFloys</B> Press Start evolution, press Restart, press Scramble All  <p>
+They belong to the flocking Alife creatures variety, sharing with them the social tendency to stick together,  and the lifelike emergent behaviour which is based on a few simple, local rules. They differ from most other flocking Alife animals by having the following properties:<br>
+<UL>
+<LI><B>Territorialism</B> (they defend their territory against intruders)
+<LI><B>Potential individualism</B> (each can possess a different personality)
+<LI><B>Ability to evolve</B>  (using a Genetic Algorithm code).
+</UL>
+<p>
+  <hr>
+<CENTER>
+<applet code=Efloys.class width=1280 height=720>
+<PARAM NAME=MaxSpeed VALUE="3"> 
+<PARAM NAME=BounceSpeed VALUE=".9">
+<PARAM NAME=ApproachAcceleration VALUE=".7">
+<PARAM NAME=CenterAcceleration VALUE=".9">
+<PARAM NAME=DistBrotherFactor VALUE="20">
+<PARAM NAME=DistStrangerFactor VALUE="40">
+<PARAM NAME=DistLocalFactor VALUE="10">
+<PARAM NAME=CollisionDistance VALUE="400">
+<PARAM NAME=CollisionBrotherFactor VALUE="2">
+<PARAM NAME=CollisionStrangerFactor VALUE="30">
+<PARAM NAME=CollisionLocalFactor VALUE="2">
+<PARAM NAME=color VALUE="green">
+<PARAM NAME=NumberOfNeighbors VALUE="300">
+<PARAM NAME=MutationFactor VALUE="2.6">
+<PARAM NAME=CrossoverFactor VALUE="2.7">
+<PARAM NAME=energy VALUE="10">
+<PARAM NAME=safety VALUE="10">
+<PARAM NAME=cooperation VALUE="3">
+<PARAM NAME=EnergyFactor VALUE="20">
+<PARAM NAME=SafetyFactor VALUE="20">
+<PARAM NAME=CooperationFactor VALUE="1">
+<PARAM NAME=SurviversFactor VALUE="1.5">
+<PARAM NAME=PopulationSize VALUE="600">
+<PARAM NAME=FreeWillFactor VALUE="1.5">
+<PARAM NAME=LifeSpan VALUE="10">
+<BR>
+If you can read this then your browser does not support Java, and you cannot see the eFloys applet.
+</applet>
+</CENTER><P>
+<hr>
+<H3>Instructions</H3>
+The overall movement of the creatures can be made to appear smooth and calm, adjust it by clicking the 'Slower' or 'Faster' buttons (click several times to reach the desired effect). <BR>
+Click the 'Scramble' button to introduce variety in the population. <BR>
+Insert a "green stranger" and watch the local eFloys chase and attack him. <BR>
+Click 'Start Evolution' to start the evolutionary process, where each generation begins when the older generation kills a stranger. <BR>
+<hr>
+<hr>
+
+</BODY>
+</HTML>
