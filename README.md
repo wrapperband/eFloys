@@ -42,7 +42,7 @@ Ability to evolve  (using a Genetic Algorithm code).
 
 The settings are configurable by editing the /eFloys/source/Efloys.html file
 
-<applet code=Efloys.class width=1280 height=720>
+applet code=Efloys.class width=1280 height=720>
 <PARAM NAME=MaxSpeed VALUE="4">
 <PARAM NAME=BounceSpeed VALUE="2">
 <PARAM NAME=ApproachAcceleration VALUE=".2">
@@ -69,7 +69,7 @@ The settings are configurable by editing the /eFloys/source/Efloys.html file
 <PARAM NAME=FreeWillFactor VALUE="2" >
 <PARAM NAME=LifeSpan VALUE="6">
 If you can read this then your browser does not support Java, and you cannot see the eFloys applet.
-</applet>
+applet>
 
 Instructions
 
@@ -86,6 +86,8 @@ Click 'Start Evolution' to start the evolutionary process, where each generation
 Click the 'Reset' button to Restart with a random set of Food - 
 
 Change screen / aquarium size.
+
+The settings can be adjusted by changing the applet start values in EFloys.html.
 
 Developed From:
 http://www.aridolan.com/ofiles/eFloys.html
