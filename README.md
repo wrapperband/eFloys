@@ -16,7 +16,7 @@ Open the eFloys project, click on eFloys / Source Packages / efloys.java
 
 then in Run menu - click Run File
 
-It is best to rest the system after pressing start evolution. The efloys are often fast, it is usually prudent to slow them down with move slower.
+It is best to reset the system after pressing start evolution. The efloys are often fast, it is usually prudent to slow them down with move slower.
 
 Initially the screen shows all green food type efloys. When you press Scramble, the various coloured floys are predator efloys. They die off if they don't find a green efloy. The green efloys are random generated, but still have an effect on successful novel flockings that are possible. The major effect being the box size.
 
@@ -31,7 +31,9 @@ I kept wishing I was good enough to restart it, or rewrite it in python, but it 
 
 eFloys 
 
-Press Start evolution, then press Restart, press Scramble All  
+Press Start evolution, then press Restart, press Scramble All  - This gives a percentage green food Floys.
+
+scramble gives no food, but you can press the add food button.
 
 
 They belong to the flocking Alife creatures variety, sharing with them the social tendency to stick together,  and the lifelike emergent behavior which is based on a few simple, local rules. They differ from most other flocking Alife animals by having the following properties:<br>
